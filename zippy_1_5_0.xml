@@ -1,0 +1,56 @@
+<OverlayData>
+<MarkerCategory name="zippy" DisplayName="Zippy">
+  <MarkerCategory name="ziplines" DisplayName="Ziplines">
+    <!--Seitung Province-->
+	<MarkerCategory name="zippy_SP" DisplayName="Seitung Province">
+        <MarkerCategory name="zippy_SP_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+    </MarkerCategory>
+	<!--End of Seitung Province-->
+    <!--New Kaineng City-->
+	<MarkerCategory name="zippy_NKC" DisplayName="New Kaineng City">
+        <MarkerCategory name="zippy_NKC_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+    </MarkerCategory>
+	<!--End of New Kaineng City-->
+    <!--Arborstone-->
+	<MarkerCategory name="zippy_AS" DisplayName="Arborstone">
+        <MarkerCategory name="zippy_AS_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+    </MarkerCategory>
+	<!--End of Arborstone-->
+    <!--Echovald Wilds-->
+	<MarkerCategory name="zippy_EW" DisplayName="Echovald Wilds">
+        <MarkerCategory name="zippy_EW_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+    </MarkerCategory>
+	<!--End of Echovald Wilds-->
+    <!--Dragon's End-->
+	<MarkerCategory name="zippy_DE" DisplayName="Dragon's End">
+        <MarkerCategory name="zippy_DE_toggletrail" DisplayName="Toggle Trail">
+        </MarkerCategory>
+    </MarkerCategory>
+	<!--End of Dragon's End-->
+  </MarkerCategory>
+</MarkerCategory>
+	<POIs>
+        <!--Seitung Province Trail-->
+        <Trail type="zippy.ziplines.zippy_SP.zippy_SP_toggletrail" GUID="775sIbPsLk2adZBXm+cyxg==" fadeNear="300000" fadeFar="300100" trailData="DATA/trails/SP_ziplinesTRAILS_01_1.trl" animSpeed="0" texture="DATA/trails/zippy_trail.png"/>
+		<!--End of Seitung Province Trail-->
+		<!--New Kaineng City Trail-->
+        <Trail type="zippy.ziplines.zippy_NKC.zippy_NKC_toggletrail" GUID="/DacJifU3EePX1Hi+1gUgQ==" fadeNear="300000" fadeFar="300100" trailData="DATA/trails/NKC_ziplinesTRAILS_01_2.trl" animSpeed="0" texture="DATA/trails/zippy_trail.png"/>
+		<!--End of New Kaineng City Trail-->
+        <!--Arborstone Trail-->
+        <Trail type="zippy.ziplines.zippy_AS.zippy_AS_toggletrail" GUID="oRsxMQuJ6kqb8DnT/E0kPQ==" fadeNear="300000" fadeFar="300100" trailData="DATA/trails/AS_ziplinesTRAILS_01_1.trl" animSpeed="0" texture="DATA/trails/zippy_trail.png"/>
+		<!--End of Arborstone Trail-->
+        <!--Echovald Wilds Trail-->
+        <Trail type="zippy.ziplines.zippy_EW.zippy_EW_toggletrail" GUID="iJzTQou4u0CXJel7f5ycTw==" fadeNear="300000" fadeFar="300100" trailData="DATA/trails/EW_ziplinesTRAILS_01_2.trl" animSpeed="0" texture="DATA/trails/zippy_trail.png"/>
+		<!--End of Echovald Wilds Trail-->
+        <!--Dragon's End Trail-->
+        <Trail type="zippy.ziplines.zippy_DE.zippy_DE_toggletrail" GUID="S0gsYYwvjk2lsN2Wq19+lA==" fadeNear="300000" fadeFar="300100" trailData="DATA/trails/DE_ziplinesTRAILS_01_1.trl" animSpeed="0" texture="DATA/trails/zippy_trail.png"/>
+		<!--End of Dragon's End Trail-->
+	</POIs>
+</OverlayData>
+
+
+<!--Mapped and Designed by Pewpew Kapew (Girbilcannon.8259) of The TINY Army-->
